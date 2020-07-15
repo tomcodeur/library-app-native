@@ -1,0 +1,36 @@
+[
+    {
+        "title" : "Père Riche, Père Pauvre",
+        "author" : "Robert Kiyosaki",
+        "categorie" : "Finance",
+        "img" : "https://static.fnac-static.com/multimedia/Images/FR/NR/08/7a/8b/9140744/1540-1/tsp20191205070239/Pere-riche-pere-pauvre-Edition-20e-anniversaire.jpg"
+    },
+
+    {
+        "title" : "Leve toi et code !",
+        "author" : "Rabin des Bois",
+        "categorie" : "Hacking",
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/41rK9jHaAKL.jpg"
+    },
+
+    {
+        "title" : "La semaine de 4h",
+        "author" : "Timothy Ferriss",
+        "categorie" : "Développement personnel",
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/51rwpv8qp5L.jpg"
+    },
+
+    {
+        "title" : "En ligne",
+        "author" : "Maxime Valette",
+        "categorie" : "Entreprenariat",
+        "img" : "https://m.media-amazon.com/images/I/41CQwJ6x7pL.jpg"
+    },
+
+    {
+        "title" : "Votre Empire Dans Un Sac à Dos",
+        "author" : "Stan Leloup",
+        "categorie" : "Entreprenariat",
+        "img" : "https://images-na.ssl-images-amazon.com/images/I/51-jNF5BipL._SX355_BO1,204,203,200_.jpg"
+    }
+]
